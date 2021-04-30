@@ -1,0 +1,33 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "53ad12f5-d245-47b1-99b9-1640239a20d7",
+            "actions": [
+                {
+                    "name": "ActionMove",
+                    "type": "PassThrough",
+                    "id": "6fa0f747-d41f-4754-b836-2f97fe289b4a",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "08a2ab04-3379-48c9-9365-b3ee2eb91fff",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionMove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
